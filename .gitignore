@@ -15,11 +15,5 @@ build/
 .vscode/
 .idea/
 
-# Audio samples (선택)
-data/
-*.wav
-*.mp3
-*.m4a
-
 # Notebooks
 .ipynb_checkpoints/
