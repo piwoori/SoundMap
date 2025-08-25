@@ -13,3 +13,4 @@ python scripts/yamnet_quickcheck.py path/to/your_audio.wav --topk 5
 
 - Accepts WAV/MP3/M4A, auto‑resamples to 16kHz mono.
 - Prints Top‑K labels with probabilities.
+- 테스트 코드
